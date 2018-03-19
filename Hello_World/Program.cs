@@ -14,7 +14,7 @@ namespace Hello_World
         {
             Console.WriteLine("Hello World!");
             decimal someVar;
-            someVar = 7;
+            someVar = 9;
             Console.WriteLine("Print someVar: ", someVar);
             // Keep the console window open in debug mode.
             Console.WriteLine("Press any key to exit.");
